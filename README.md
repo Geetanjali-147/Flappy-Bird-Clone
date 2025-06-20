@@ -9,16 +9,16 @@ A simple clone of the classic Flappy Bird game built using Python and Pygame. De
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository :
 git clone https://github.com/yourusername/flappy-bird-python.git
 
-2. Navigate to the project directory:
+2. Navigate to the project directory :
 cd flappy-bird-python
 
-3. Install dependencies:
+3. Install dependencies :
 pip install pygame
 
-4. Run the game:
+4. Run the game :
 python flappy_bird.py
 
 ####  **Usage / How to Play**
